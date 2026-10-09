@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CotLang/CotLang.vcxproj" Id="06c34acc-1511-4d76-8b87-36f47cb98026" />
+</Solution>
